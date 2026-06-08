@@ -63,7 +63,6 @@ The project follows strict Python standards:
 - one exercise per directory
 - programs must run without errors
 
-The subject also requires progressive introduction of OOP concepts starting from Exercise 1. fileciteturn9file0L1-L20
 
 ---
 
