@@ -2,7 +2,7 @@
 
 Object-Oriented Garden Systems
 
-> A Python project from the 42 curriculum focused on Object-Oriented Programming, software architecture, encapsulation, inheritance, and scalable system design through a digital garden ecosystem. fileciteturn9file0
+> A Python project from the 42 curriculum focused on Object-Oriented Programming, software architecture, encapsulation, inheritance, and scalable system design through a digital garden ecosystem.
 
 ---
 
@@ -20,7 +20,7 @@ The project progressively evolves from:
 - scalable system architecture
 - data analysis
 
-Each exercise builds on previous concepts to create a complete digital garden ecosystem. fileciteturn9file0L1-L20
+Each exercise builds on previous concepts to create a complete digital garden ecosystem.
 
 ---
 
@@ -38,7 +38,7 @@ The project focuses on teaching:
 - data integrity protection
 - analytical thinking
 
-According to the official subject, the project aims to simulate real-world systems through modular software design. fileciteturn9file0L1-L20
+According to the official subject, the project aims to simulate real-world systems through modular software design. 
 
 ---
 
